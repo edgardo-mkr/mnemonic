@@ -1,0 +1,22 @@
+{
+  "name": "mnemonic",
+  "version": "1.0.0",
+  "description": "This function receives a mnemonic as string and an account number(0,1,2...) as integer giving as a return value the address and private key",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgardo-mkr/mnemonic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edgardo-mkr/mnemonic/issues"
+  },
+  "homepage": "https://github.com/edgardo-mkr/mnemonic#readme",
+  "dependencies": {
+    "ethers": "^5.5.3"
+  }
+}
